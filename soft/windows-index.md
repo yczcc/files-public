@@ -41,12 +41,14 @@ Windows软件推荐
   2. **UltraCompare**  
     [官网](https://www.ultraedit.com/products/ultracompare/) 文件、目录比较&同步等。
 #### 绘图工具
-  1. **Microsoft Visio** 
+  1. **Microsoft Visio**  
+  2. **PlantUML**  
+    [官网](http://plantuml.com/)  绘制UML，通过简单直观的语言来定义这些示意图。
 #### 图片视频
   1. **Faststone Capture**  
     [官网](http://www.faststone.org/)  截屏及简单图片处理
   2. **GifCam**  
-    [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制 
+    [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制。
 ### 开发软件
 #### C++
 #### Golang
