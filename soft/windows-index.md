@@ -31,9 +31,8 @@ Windows软件推荐
 1. Faststone Capture  
 [官网](http://www.faststone.org/)  截屏及简单图片处理
 2. GifCam  
-[官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取
+[官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY4MTY1NjAsLTEzNzk5ODQ2NjRdfQ
-==
+eyJoaXN0b3J5IjpbNTk4NDE5NTI5LC0xMzc5OTg0NjY0XX0=
 -->
