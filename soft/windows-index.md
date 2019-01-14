@@ -23,39 +23,38 @@ Windows软件推荐
 [官网](https://www.scootersoftware.com/) 文件、目录比较&同步等。
  11. **UltraCompare**  
 [官网](https://www.ultraedit.com/products/ultracompare/) 文件、目录比较&同步等。
- 12. 
 #### 绘图工具
- 13. **visio**
- 14. 
+ 12. **visio**
+ 13. 
 #### 图片视频
- 15. **Faststone Capture**  
+ 14. **Faststone Capture**  
 [官网](http://www.faststone.org/)  截屏及简单图片处理
- 16. **GifCam**  
+ 15. **GifCam**  
 [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制
- 17. 
+ 16. 
 ### 开发软件
 #### Python IDE
- 18. **JetBrains  PyCharm**   
+ 17. **JetBrains  PyCharm**   
 [官网](https://www.jetbrains.com/pycharm/)
- 19. 
+ 18. 
  #### NodeJS IDE
- 20.  **JetBrains WebStorm**  
+ 19.  **JetBrains WebStorm**  
 [官网](https://www.jetbrains.com/webstorm/)
- 21. 
+ 20. 
  #### WebAPI测试
- 22. **Postman**  
- [官网]()
- 23. 
+ 21. **Postman**  
+ [官网](https://www.getpostman.com/)
+ 22. 
  #### 终端工具
- 24. **SecureCRT**  
+ 23. **SecureCRT**  
  #### 文档管理
-  25. Zeal  
+ 24. Zeal  
   [官网](https://zealdocs.org/)
  #### 网络工具
  25. **HttpWatch**   
  [官网](https://www.httpwatch.com/) HttpWatch Professional Edition 浏览器抓包工具
- 27. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4OTE4MzUwLC0xMzc5OTg0NjY0XX0=
+eyJoaXN0b3J5IjpbLTEyOTU2NzU0OTYsLTEzNzk5ODQ2NjRdfQ
+==
 -->
