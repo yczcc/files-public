@@ -29,10 +29,11 @@ Windows软件推荐
 2. 
 #### 图片视频
 1. Faststone Capture  
-[官网](http://www.faststone.org/)
+[官网](http://www.faststone.org/)  截屏及简单图片处理
 2. GifCam  
-[官网]
+[官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMzU5OTI4LC0xMzc5OTg0NjY0XX0=
+eyJoaXN0b3J5IjpbLTIxMjY4MTY1NjAsLTEzNzk5ODQ2NjRdfQ
+==
 -->
