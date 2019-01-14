@@ -18,6 +18,10 @@ Windows软件推荐
 1. 7zip  
 [官网](https://www.7-zip.org/)
 2. 
+### 文本比较
+1. Beyond Compare  
+[]
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk5ODQ2NjRdfQ==
+eyJoaXN0b3J5IjpbLTc4ODA0OTk3MiwtMTM3OTk4NDY2NF19
 -->
