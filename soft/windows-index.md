@@ -9,52 +9,58 @@ Windows软件推荐
 [官网](http://cmder.net/) windows CMD命令行替代品。
  4.    
 #### 文本编辑类
-1.  **UltraEdit**  
+ 5.  **UltraEdit**  
 文本编辑。百度网盘留存。
-2. **VSCode**  
+ 6. **VSCode**  
 [官网](https://code.visualstudio.com/) Visual Studio Code
-3. 
+ 7. 
 #### 压缩工具
-1. **7zip**  
+ 8. **7zip**  
 [官网](https://www.7-zip.org/)
-2. 
+ 9. 
 #### 文本比较
-1. **Beyond Compare**  
+ 10. **Beyond Compare**  
 [官网](https://www.scootersoftware.com/) 文件、目录比较&同步等。
-2. **UltraCompare**  
+ 11. **UltraCompare**  
 [官网](https://www.ultraedit.com/products/ultracompare/) 文件、目录比较&同步等。
-3. 
+ 12. sss
+ 13. sssss
+ 14. 
 #### 绘图工具
-1. **visio**
-2. 
+ 15. **visio**
+ 16. 
 #### 图片视频
-1. **Faststone Capture**  
+ 17. **Faststone Capture**  
 [官网](http://www.faststone.org/)  截屏及简单图片处理
-2. **GifCam**  
+ 18. **GifCam**  
 [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制
-3. 
+ 19. 
 ### 开发软件
 #### Python IDE
-1. **JetBrains  PyCharm**   
+ 20. **JetBrains  PyCharm**   
 [官网](https://www.jetbrains.com/pycharm/)
-2. 
+ 21. 
  #### NodeJS IDE
-1.  **JetBrains WebStorm**  
+ 22.  **JetBrains WebStorm**  
 [官网](https://www.jetbrains.com/webstorm/)
-2. 
+ 23. 
  #### WebAPI测试
- 1. **Postman**  
+ 24. **Postman**  
  [官网]()
- 2. 
+ 25. 
  #### 终端工具
- 1. **SecureCRT**   
- 4.   
+ 26. **SecureCRT**  
+ 
  #### 文档管理
  #### 网络工具
- 5. **HttpWatch**  
+ 6
+ 27. List item
+ 28. List item
+
+. **HttpWatch**  
  [官网](https://www.httpwatch.com/) HttpWatch Professional Edition 浏览器抓包工具
- 6. 
+ 7. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MDMzNzQzLC0xMzc5OTg0NjY0XX0=
+eyJoaXN0b3J5IjpbMTIyNDIzMjgzLC0xMzc5OTg0NjY0XX0=
 -->
