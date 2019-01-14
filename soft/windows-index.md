@@ -34,12 +34,17 @@ Windows软件推荐
 [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制
 3. 
 ### 开发软件
-#### python IDE
+#### Python IDE
 1. **JetBrains  PyCharm**   
-[官网]()
+[官网](https://www.jetbrains.com/pycharm/)
 2. 
+ ###
+1.  **NodeJS IDE**  
+
+4. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMjAyMzkwLC0xMzc5OTg0NjY0XX0=
+eyJoaXN0b3J5IjpbLTE0MjIwNTE5MTAsLTEzNzk5ODQ2NjRdfQ
+==
 -->
