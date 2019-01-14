@@ -1,8 +1,9 @@
 Windows软件推荐
 [实用软件](#实用软件)  
 [系统增强类](#系统增强类)、[文本编辑类](#文本编辑类类)、[压缩工具](#压缩工具)、[文本比较](#文本比较)、[绘图工具](#绘图工具)、[图片视频](#图片视频)
+  
 [开发软件](#开发软件)  
-[Python IDE](#python)、[NodeJS IDE](#NodeJS IDE)、[WebAPI测试](#WebAPI测试)、[WebAPI测试](#WebAPI测试)、[终端工具](#终端工具)、[文档管理](#文档管理)、[网络工具](#网络工具)、
+[Python](#python)、[NodeJS](#nodejs)、[WebAPI测试](#WebAPI测试)、[WebAPI测试](#WebAPI测试)、[终端工具](#终端工具)、[文档管理](#文档管理)、[网络工具](#网络工具)、
 ### 实用软件
 #### 系统增强类
  1. **listary pro**  
@@ -59,6 +60,6 @@ Windows软件推荐
  [官网](https://www.httpwatch.com/) HttpWatch Professional Edition 浏览器抓包工具
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTc1MzczNSwyMTAyMjc1MjAsLTEyOT
-U2NzU0OTYsLTEzNzk5ODQ2NjRdfQ==
+eyJoaXN0b3J5IjpbNjk1NzkyMDE1LDIxMDIyNzUyMCwtMTI5NT
+Y3NTQ5NiwtMTM3OTk4NDY2NF19
 -->
