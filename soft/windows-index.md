@@ -48,13 +48,13 @@ Windows软件推荐
  #### 终端工具
  23. **SecureCRT**  
  #### 文档管理
- 24. Zeal  
+ 24. **Zeal**  
   [官网](https://zealdocs.org/)
  #### 网络工具
  25. **HttpWatch**   
  [官网](https://www.httpwatch.com/) HttpWatch Professional Edition 浏览器抓包工具
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU2NzU0OTYsLTEzNzk5ODQ2NjRdfQ
-==
+eyJoaXN0b3J5IjpbMTc5ODgzOTcwNCwtMTI5NTY3NTQ5NiwtMT
+M3OTk4NDY2NF19
 -->
