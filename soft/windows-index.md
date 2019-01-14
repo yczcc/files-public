@@ -38,13 +38,15 @@ Windows软件推荐
 1. **JetBrains  PyCharm**   
 [官网](https://www.jetbrains.com/pycharm/)
 2. 
- ###
-1.  **NodeJS IDE**  
-
-4. 
-
+ #### NodeJS IDE
+1.  **JetBrains WebStorm**  
+[官网](https://www.jetbrains.com/webstorm/)
+2. 
+ #### WebAPIc
+ #### NodeJS IDE
+ #### NodeJS IDE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIwNTE5MTAsLTEzNzk5ODQ2NjRdfQ
+eyJoaXN0b3J5IjpbLTIwNjg3OTU2MjEsLTEzNzk5ODQ2NjRdfQ
 ==
 -->
