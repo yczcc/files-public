@@ -1,5 +1,5 @@
 Windows软件推荐
-
+### 实用软件
 #### 系统增强类
  1. **listary pro**  
  搜索神器，包括软件、文件、目录等。百度网盘留存。
@@ -33,8 +33,13 @@ Windows软件推荐
 2. **GifCam**  
 [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制
 3. 
+### 开发软件
+#### python IDE
+1. **JetBrains  PyCharm**   
+[官网]()
+2. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjIwMDY5NCwtMTM3OTk4NDY2NF19
+eyJoaXN0b3J5IjpbMjkwMjAyMzkwLC0xMzc5OTg0NjY0XX0=
 -->
