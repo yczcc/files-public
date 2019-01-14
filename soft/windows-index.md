@@ -2,7 +2,7 @@ Windows软件推荐
 [实用软件](#实用软件)  
 [系统增强类](#系统增强类)、[文本编辑类](#文本编辑类类)、[压缩工具](#压缩工具)、[文本比较](#文本比较)、[绘图工具](#绘图工具)、[图片视频](#图片视频)
 [开发软件](#开发软件)  
-[Python IDE](#Python IDE)、[NodeJS IDE](#NodeJS IDE)、[WebAPI测试](#WebAPI测试)、[WebAPI测试](#WebAPI测试)、[WebAPI测试](#WebAPI测试)、
+[Python IDE](#python)、[NodeJS IDE](#NodeJS IDE)、[WebAPI测试](#WebAPI测试)、[WebAPI测试](#WebAPI测试)、[终端工具](#终端工具)、[文档管理](#文档管理)、[网络工具](#网络工具)、
 ### 实用软件
 #### 系统增强类
  1. **listary pro**  
@@ -37,11 +37,11 @@ Windows软件推荐
 [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制
  16. 
 ### 开发软件
-#### Python IDE
+#### Python
  17. **JetBrains  PyCharm**   
 [官网](https://www.jetbrains.com/pycharm/)
  18. 
- #### NodeJS IDE
+ #### NodeJS
  19.  **JetBrains WebStorm**  
 [官网](https://www.jetbrains.com/webstorm/)
  20. 
@@ -59,6 +59,6 @@ Windows软件推荐
  [官网](https://www.httpwatch.com/) HttpWatch Professional Edition 浏览器抓包工具
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkxNzk5NjEsMjEwMjI3NTIwLC0xMj
-k1Njc1NDk2LC0xMzc5OTg0NjY0XX0=
+eyJoaXN0b3J5IjpbMTY3MTc1MzczNSwyMTAyMjc1MjAsLTEyOT
+U2NzU0OTYsLTEzNzk5ODQ2NjRdfQ==
 -->
