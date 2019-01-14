@@ -29,9 +29,9 @@ Windows软件推荐
  11. **UltraCompare**  
 [官网](https://www.ultraedit.com/products/ultracompare/) 文件、目录比较&同步等。
 #### 绘图工具
- 12. **visio**
+ 12. **Microsoft Visio**
  13. **PlantUML**  
- [官网](http://plantuml.com/) 
+ [官网](http://plantuml.com/)  绘制UML，通过简单直观的语言来定义这些示意图。
  14. 
 #### 图片视频
  14. **Faststone Capture**  
@@ -62,6 +62,6 @@ Windows软件推荐
  [官网](https://www.httpwatch.com/) HttpWatch Professional Edition 浏览器抓包工具
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc3NTQ5OTYsLTk0NDg5OTU5NywyMT
-AyMjc1MjAsLTEyOTU2NzU0OTYsLTEzNzk5ODQ2NjRdfQ==
+eyJoaXN0b3J5IjpbMjAzNDkzNDg1OCwtOTQ0ODk5NTk3LDIxMD
+IyNzUyMCwtMTI5NTY3NTQ5NiwtMTM3OTk4NDY2NF19
 -->
