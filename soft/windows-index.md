@@ -20,8 +20,10 @@ Windows软件推荐
 2. 
 ### 文本比较
 1. Beyond Compare  
-[]
-2. 
+[官网](https://www.scootersoftware.com/) 文件、目录比较&同步等。
+2. UltraCompare  
+[官网](https://www.ultraedit.com/products/ultracompare/) 文件、目录比较&同步等。
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODA0OTk3MiwtMTM3OTk4NDY2NF19
+eyJoaXN0b3J5IjpbNjU3ODk0ODA1LC0xMzc5OTg0NjY0XX0=
 -->
