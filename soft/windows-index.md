@@ -27,7 +27,12 @@ Windows软件推荐
 #### 绘图工具
 1. visio
 2. 
-####
+#### 图片视频
+1. Faststone Capture  
+[官网](http://www.faststone.org/)
+2. GifCam  
+[官网]
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI0Mjc1NCwtMTM3OTk4NDY2NF19
+eyJoaXN0b3J5IjpbNjEwMzU5OTI4LC0xMzc5OTg0NjY0XX0=
 -->
