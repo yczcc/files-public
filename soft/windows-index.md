@@ -1,11 +1,11 @@
 Windows软件推荐  
 [实用软件](#实用软件)：  
-[系统增强类](#系统增强类)、[文本编辑类](#文本编辑类类)、[压缩工具](#压缩工具)、[文本比较](#文本比较)、[绘图工具](#绘图工具)、[图片视频](#图片视频)
+[系统增强](#系统增强)、[文本编辑](#文本编辑)、[压缩工具](#压缩工具)、[文本比较](#文本比较)、[绘图工具](#绘图工具)、[图片视频](#图片视频)
   
 [开发软件](#开发软件)：  
 [Python](#python)、[NodeJS](#nodejs)、[WebAPI测试](#WebAPI测试)、[WebAPI测试](#WebAPI测试)、[终端工具](#终端工具)、[文档管理](#文档管理)、[网络工具](#网络工具)
 ### 实用软件
-#### 系统增强类
+#### 系统增强
  1. **listary pro**  
  搜索神器，包括软件、文件、目录等。百度网盘留存。
  2. **Clover**  
@@ -13,7 +13,7 @@ Windows软件推荐
  3. **Cmder**  
 [官网](http://cmder.net/) windows CMD命令行替代品。
  4.    
-#### 文本编辑类
+#### 文本编辑
  5.  **UltraEdit**  
 文本编辑。百度网盘留存。
  6. **VSCode**  
@@ -60,6 +60,6 @@ Windows软件推荐
  [官网](https://www.httpwatch.com/) HttpWatch Professional Edition 浏览器抓包工具
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMxMjgwMCwyMTAyMjc1MjAsLTEyOT
+eyJoaXN0b3J5IjpbLTk0NDg5OTU5NywyMTAyMjc1MjAsLTEyOT
 U2NzU0OTYsLTEzNzk5ODQ2NjRdfQ==
 -->
