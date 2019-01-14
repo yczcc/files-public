@@ -42,11 +42,14 @@ Windows软件推荐
 1.  **JetBrains WebStorm**  
 [官网](https://www.jetbrains.com/webstorm/)
 2. 
- #### WebAPIc
- #### NodeJS IDE
- #### NodeJS IDE
+ #### WebAPI测试
+ #### 终端工具
+ #### 文档管理
+ #### 网络工具
+ 1. **HttpWatch**  
+ [官网]() HttpWatch Professional Edition 浏览器抓包工具
+ 2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg3OTU2MjEsLTEzNzk5ODQ2NjRdfQ
-==
+eyJoaXN0b3J5IjpbMTE4NDczMjY0MiwtMTM3OTk4NDY2NF19
 -->
