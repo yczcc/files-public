@@ -33,6 +33,8 @@ Windows软件推荐
 2. GifCam  
 [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制
 3. 
+
+[TOC]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NDE5NTI5LC0xMzc5OTg0NjY0XX0=
+eyJoaXN0b3J5IjpbLTQwODIzMzI4MSwtMTM3OTk4NDY2NF19
 -->
