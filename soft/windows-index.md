@@ -21,21 +21,20 @@ Windows软件推荐
 #### 文本比较
 1. **Beyond Compare**  
 [官网](https://www.scootersoftware.com/) 文件、目录比较&同步等。
-2. UltraCompare  
+2. **UltraCompare**  
 [官网](https://www.ultraedit.com/products/ultracompare/) 文件、目录比较&同步等。
 3. 
 #### 绘图工具
-1. visio
+1. **visio**
 2. 
 #### 图片视频
-1. Faststone Capture  
+1. **Faststone Capture**  
 [官网](http://www.faststone.org/)  截屏及简单图片处理
-2. GifCam  
+2. **GifCam**  
 [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制
 3. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA5NzY0NTgsLTEzNzk5ODQ2NjRdfQ
-==
+eyJoaXN0b3J5IjpbMTUxMjIwMDY5NCwtMTM3OTk4NDY2NF19
 -->
