@@ -43,13 +43,18 @@ Windows软件推荐
 [官网](https://www.jetbrains.com/webstorm/)
 2. 
  #### WebAPI测试
+ 1. **Postman**  
+ [官网]()
+ 2. 
  #### 终端工具
+ 1. **SecureCRT**   
+ 4.   
  #### 文档管理
  #### 网络工具
- 1. **HttpWatch**  
- [官网]() HttpWatch Professional Edition 浏览器抓包工具
- 2. 
+ 5. **HttpWatch**  
+ [官网](https://www.httpwatch.com/) HttpWatch Professional Edition 浏览器抓包工具
+ 6. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDczMjY0MiwtMTM3OTk4NDY2NF19
+eyJoaXN0b3J5IjpbNzY1MDMzNzQzLC0xMzc5OTg0NjY0XX0=
 -->
