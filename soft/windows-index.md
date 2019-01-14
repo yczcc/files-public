@@ -34,34 +34,36 @@ Windows软件推荐
  [官网](http://plantuml.com/)  绘制UML，通过简单直观的语言来定义这些示意图。
  14. 
 #### 图片视频
- 14. **Faststone Capture**  
+ 15. **Faststone Capture**  
 [官网](http://www.faststone.org/)  截屏及简单图片处理
- 15. **GifCam**  
+ 16. **GifCam**  
 [官网](http://blog.bahraniapps.com/gifcam/) gif动态图截取及录制
- 16. 
+ 17. 
 ### 开发软件
 #### Python
- 17. **JetBrains  PyCharm**   
+ 18. **JetBrains  PyCharm**   
 [官网](https://www.jetbrains.com/pycharm/)
- 18. 
+ 19. 
  #### NodeJS
- 19.  **JetBrains WebStorm**  
+ 20.  **JetBrains WebStorm**  
 [官网](https://www.jetbrains.com/webstorm/)
- 20. 
+ 21. 
  #### WebAPI测试
- 21. **Postman**  
+ 22. **Postman**  
  [官网](https://www.getpostman.com/)
- 22. 
+ 23. 
  #### 终端工具
- 23. **SecureCRT**  
+ 24. **SecureCRT**  
  #### 文档管理
- 24. **Zeal**  
+ 25. **Zeal**  
   [官网](https://zealdocs.org/)
  #### 网络工具
- 25. **HttpWatch**   
+ 26. **HttpWatch**   
  [官网](https://www.httpwatch.com/) HttpWatch Professional Edition 浏览器抓包工具
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDkzNDg1OCwtOTQ0ODk5NTk3LDIxMD
-IyNzUyMCwtMTI5NTY3NTQ5NiwtMTM3OTk4NDY2NF19
+eyJoaXN0b3J5IjpbLTU0MDQ3Nzg3OSwyMDM0OTM0ODU4LC05ND
+Q4OTk1OTcsMjEwMjI3NTIwLC0xMjk1Njc1NDk2LC0xMzc5OTg0
+NjY0XX0=
 -->
